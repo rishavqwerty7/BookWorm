@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("starting the server")
+	fmt.Println("starting the server..")
 
 	r := router.Router()
 
